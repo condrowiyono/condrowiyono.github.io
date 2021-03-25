@@ -17,12 +17,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "https://www.facebook.com/condrowiyono"
-twitter: "https://twitter.com/condroME"
-linkedin: "https://www.linkedin.com/in/condro/"
-github: "https://github.com/condrowiyono"
-researchgate: "#"
-orcid: "#"
+facebook: "condrowiyono"
+twitter: "condroME"
+linkedin: "condro"
+github: "condrowiyono"
 
 highlighter: rouge
 markdown: kramdown
